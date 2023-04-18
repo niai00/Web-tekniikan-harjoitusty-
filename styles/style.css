@@ -167,6 +167,9 @@ h3, p {
     top: 0;
     right: 0;
 }
+.addons {
+    margin-left: 3px;
+}
 
 footer {
     grid-column: 1/8;
